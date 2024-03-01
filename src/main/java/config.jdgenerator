@@ -1,0 +1,20 @@
+==== CONFIGS ====		
+{
+    "base_path": "/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java",
+    "out": "/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java/javadoc",
+    "javadoc_executable": "/home/gitpod/.sdkman/candidates/java/11.0.22.fx-zulu/bin/javadoc",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== COMMAND ====
+"/home/gitpod/.sdkman/candidates/java/11.0.22.fx-zulu/bin/javadoc" 
+	-sourcepath "/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java" 
+	-d "/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java/javadoc" 
+	"/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java/HelloJava.java"
+	"/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java/MainSchtroumpf.java"
+	"/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java/MainVillage.java"
+	"/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java/Schtroumpf.java"
+	"/workspace/r2-03-td4-maven-2024-Firewelll/src/main/java/Village.java"
+
+
